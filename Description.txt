@@ -1,0 +1,1 @@
+The following folders are a collections of the sprites, animations, and C# scripts that were used to make a simple helicopter game. The game itself is a personal university project.
